@@ -1,4 +1,4 @@
-# simple-stock-price
+# Simple Stock Price App
 
 Streamlit app showing stock price
 
